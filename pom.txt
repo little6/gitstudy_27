@@ -1,3 +1,4 @@
 添加了mysql的驱动依赖
 添加spring的依赖
 添加了mybaits的依赖
+添加了druid的依赖
